@@ -1,4 +1,4 @@
-# WinTerm : SFX Color Schemes
+# WinTerm: SFX Color Schemes
 
 [**WinTerm : SFX Color Schemes**](https://github.com/SupernautFX/WinTerm-SFX-Color-Schemes) is the central GitHub Repository used to host **ALL** of my own Custom Made Color Schemes for use with Microsoft's [*Windows Terminal*](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701).
 
@@ -35,7 +35,7 @@
 > * [About Me...](#about-me...)
 > * [Related Links...](#related-links...)
 
-## About SFX Color Schemes
+## About: SFX Color Schemes
 
 The included WT Color Schemes were crafted in a somewhat '**Structured**' manner. To *elaborate*: 
 
